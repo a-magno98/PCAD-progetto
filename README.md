@@ -1,4 +1,6 @@
 # PCAD-progetto
+Progetto per il corso di programmazione concorrente e algoritmi distributi.
+
 ## Multithreaded Cluster per Analisi di Testo
 
 L'obiettivo del progetto è quello di istanziare il template Java di middleware client-server distribuito discusso a lezione per integrare e processare dati provenienti da diverse sorgenti eterogenee. 
