@@ -8,9 +8,9 @@ I sorgenti del template sono a disposizione su aulaweb.
 
 Il template prevede le seguenti componenti:
 
-    Un gateway RMI in grado di ricevere dati inviati da applicazioni client con GUI Swing o JavaFX attraverso il protocollo RMI.
-    Un gateway TCP in grado di ricevere dati da App Android attraverso il protocollo TCP e di ridirezionarli al gateway RMI attraverso metodi remoti.
-    Una App Android per inviare dati al gateway TCP.
+- Un gateway RMI in grado di ricevere dati inviati da applicazioni client con GUI Swing o JavaFX attraverso il protocollo RMI.
+- Un gateway TCP in grado di ricevere dati da App Android attraverso il protocollo TCP e di ridirezionarli al gateway RMI attraverso metodi remoti.
+- Una App Android per inviare dati al gateway TCP.
 
 Partendo da tale template il progetto consiste nell'implementare un algoritmo distribuito per processing di dati testuali (es query inviate ad un motore di ricerca) inviati da un'insieme di client georeferenziati (es i messaggi includo testo e indicazione della posizione (zona di Genova) del device). 
 
